@@ -5,7 +5,7 @@ Repositório criado para armazenar as resoluções dos exercícios de XML da dis
 
 <strong>Atividade 1: </strong>produto.xml
 <br><strong>Atividade 2: </strong> Privisão do tempo_XML
-Para execução é necessário fazer o download dos arquivos e posteriormente trocar a o texto "SUA_CHAVE" presente no arquivo "index.html" por sua chave do Google Maps:
+<br>Para execução é necessário fazer o download dos arquivos e posteriormente trocar a o texto "SUA_CHAVE" presente no arquivo "index.html" por sua chave do Google Maps:
 Linha 29: <script src="http://maps.googleapis.com/maps/api/js?key=SUA_CHAVE"></script>
 Também se faz necessário trocar o texto "Use sua chave aqui" presente no arquivo "script.js" pela sua chave da API do OpenWeatherMap:
 Linha 23: let SUA_CHAVE = "Use sua chave aqui";
