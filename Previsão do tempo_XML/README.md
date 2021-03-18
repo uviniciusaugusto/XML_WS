@@ -8,7 +8,7 @@
 <br>Linha 29: <script src="http://maps.googleapis.com/maps/api/js?key=SUA_CHAVE"></script>
 
 <br>Também se faz necessário trocar o texto "Use sua chave aqui" presente no arquivo "script.js" pela sua chave da API do OpenWeatherMap:
-<br>Linha 20: let SUA_CHAVE = "Use sua chave aqui";
+<br>Linha 23: let SUA_CHAVE = "Use sua chave aqui";
 
 <br>Suas chaves podem ser adquiridas pelos seguintes links:
 
